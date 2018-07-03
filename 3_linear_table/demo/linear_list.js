@@ -1,3 +1,4 @@
+//  线性表的顺序存储结构
 const MAXSIZE=50
 var ERROR = 0;
 var OK = 1;
