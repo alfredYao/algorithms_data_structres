@@ -1,3 +1,3 @@
 # algorithms_data_structres
 about algorithms and data structures
-用来总结大话数据结构算法的学习过程
+总结数据结构的知识
