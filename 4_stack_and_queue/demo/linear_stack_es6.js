@@ -16,7 +16,8 @@ class Stack{
             this.items.push(arguments[i])
         }
     }
-    //出栈
+    // 出栈
+    // 时间复杂度为 O(1)
     pop(){
         return this.items.pop();
     }
