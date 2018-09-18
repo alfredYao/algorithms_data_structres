@@ -19,8 +19,7 @@ function bubbleSort(arr){
                 arr[j-1]=tmp
             }
         }
-        low=low+1
-        high=high-1
+        ++low
     }
     console.timeEnd('继续改进的冒泡排序耗时');
     return arr;
